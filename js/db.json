@@ -1,0 +1,67 @@
+{
+    "home": {
+        "h3": "Hello, It's Me",
+        "h1": "Osman YILDIZ",
+        "p": "I am experienced, open to development, passionate and attentive in the field of Full Stack Web Developer. I am a successful team player in the projects I work on and I can manage the project alone, taking responsibility when necessary. I am currently looking for a working environment that will guide me and my projects and enable me to develop with good education.",
+        "socialMedias": [
+            {
+                "name": "LinkedIn",
+                "url": "https://www.linkedin.com/in/osmn-yldiz/",
+                "icon": "bx bxl-linkedin"
+            },
+            {
+                "name": "GitHub",
+                "url": "https://github.com/osmn-yldiz",
+                "icon": "bx bxl-github"
+            },
+            {
+                "name": "Instagram",
+                "url": "https://www.instagram.com/osmn.yldiz/",
+                "icon": "bx bxl-instagram-alt"
+            }
+        ],
+        "homeImg": "images/home.png"
+    },
+    "about": {
+        "aboutImg": "images/about.png",
+        "h3": "Full Stack Web Developer!",
+        "p": "<p>I am a software developer who follows my dreams.</p><p>There is a production that constantly questions, is not afraid of constantly improving itself and trying something new. I like to learn new things. I have strong communication skills.</p>"
+    },
+    "services": [
+        {
+            "icon": "bx bx-code-alt",
+            "name": "Web Development",
+            "description": "I offer services related to the creation and maintenance of websites, such as front-end design, back-end development."
+        },
+        {
+            "icon": "bx bxs-paint",
+            "name": "Graphic Design",
+            "description": "I provide services such as logo design, corporate identity creation, flyer design, catalog creation and packaging design."
+        },
+        {
+            "icon": "bx bx-bar-chart-alt",
+            "name": "Digital Marketing",
+            "description": "I offer services such as SEO, social media management and digital marketing strategy development."
+        }
+    ],
+    "portfolios": [
+        {
+            "img": "images/portfolio1.jpg",
+            "name": "Yıldızlı Ürünler",
+            "description": "Yıldızlı Ürünler",
+            "url": "https://www.yildizliurunler.com.tr/"
+        },
+        {
+            "img": "images/portfolio2.jpg",
+            "name": "Home Service",
+            "description": "Home Service",
+            "url": "http://demo1.yildizosman.com/"
+        },
+        {
+            "img": "images/portfolio3.jpg",
+            "name": "Pizza House",
+            "description": "Pizza House",
+            "url": "http://demo3.yildizosman.com/"
+        }
+    ]
+}
